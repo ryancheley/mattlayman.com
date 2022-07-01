@@ -74,7 +74,16 @@ How do websites work?
 I'm not going
 to be able to walk
 through all the details,
+{{< web >}}
 but this post
+{{< /web >}}
+will lay down the breadcrumbs.
+I'm not going
+to be able to walk
+through all the details,
+{{< book >}}
+but this chapter
+{{< /book >}}
 will lay down the breadcrumbs.
 We'll look at the way your web browser requests data
 from the internet
